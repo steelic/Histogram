@@ -1,8 +1,3 @@
-//
-//  main.c
-//  Created by Kaymin Dixon on 10/15/19.
-
-
 #include <stdio.h>
 
 #define MAX_BINS (5)
